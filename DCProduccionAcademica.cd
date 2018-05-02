@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BDA_BDOOp1.ProduccionAcademica">
+    <Position X="9.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ProduccionAcademica\ProduccionAcademica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.MedioDePublicacion">
+    <Position X="17.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\Publicacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.Revista">
+    <Position X="16" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\Revista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.Autor">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\Autor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.Patente">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ProduccionAcademica\Patente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.Prototipo">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\Prototipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.Estudiante">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <InheritanceLine Type="BDA_BDOOp1.Autor" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.5" Y="4.778" />
+        <Point X="11.125" Y="4.778" />
+        <Point X="11.125" Y="5.806" />
+        <Point X="9" Y="5.806" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\Estudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.Docente">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\Investigador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.MemoriaEstadia">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <AssociationLine Name="Estudiante" Type="BDA_BDOOp1.Estudiante">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.399" Y="0.019" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>ProduccionAcademica\MemoriaEstadia.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Estudiante" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BDA_BDOOp1.Articulo">
+    <Position X="14.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCEAAAAAAAAAAAAAAQAAAAAIAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\Artículo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="publicadoen" />
+      <Property Name="Autor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BDA_BDOOp1.RevistaImpresa">
+    <Position X="17" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\RevistaElectronica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.RevistaElectronica">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\RevistaElectronica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.MemoriaCongreso">
+    <Position X="19" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\MemoriaCongreso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDA_BDOOp1.Tesis">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAACA=</HashCode>
+      <FileName>ProduccionAcademica\Tesis.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Estudiante" />
+      <Property Name="Asesor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BDA_BDOOp1.Libro">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProduccionAcademica\Libro.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Autor" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

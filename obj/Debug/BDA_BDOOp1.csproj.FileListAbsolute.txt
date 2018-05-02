@@ -1,0 +1,30 @@
+C:\Users\Alos\Documents\UTIM\2018\2018-1\BDA\RecursosDidácticos\BDOO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.exe.config
+C:\Users\Alos\Documents\UTIM\2018\2018-1\BDA\RecursosDidácticos\BDOO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.exe
+C:\Users\Alos\Documents\UTIM\2018\2018-1\BDA\RecursosDidácticos\BDOO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.pdb
+C:\Users\Alos\Documents\UTIM\2018\2018-1\BDA\RecursosDidácticos\BDOO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.csprojResolveAssemblyReference.cache
+C:\Users\Alos\Documents\UTIM\2018\2018-1\BDA\RecursosDidácticos\BDOO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.exe
+C:\Users\Alos\Documents\UTIM\2018\2018-1\BDA\RecursosDidácticos\BDOO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.pdb
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.exe.config
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.exe
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.pdb
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.csprojResolveAssemblyReference.cache
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.exe
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.pdb
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Db4objects.Db4o.dll
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Mono.Reflection.dll
+C:\Users\elihu\Documents\Marycel\Ingenieria Octavo Cuatrimestre\Base de Datos para Aplicaciòn\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Db4objects.Db4o.xml
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.exe.config
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.exe
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\BDA_BDOOp1.pdb
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Db4objects.Db4o.Data.Services.dll
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Db4objects.Db4o.dll
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Db4objects.Db4o.Linq.dll
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Mono.Reflection.dll
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\bin\Debug\Db4objects.Db4o.xml
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.csprojResolveAssemblyReference.cache
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.csproj.CoreCompileInputs.cache
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.csproj.CopyComplete
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.exe
+D:\Documentos\Pre_dir\UTIM\8° Cuatrimestre\2° Parcial\bd\Base de datos OO\BDA_BDOOp1\BDA_BDOOp1\obj\Debug\BDA_BDOOp1.pdb
